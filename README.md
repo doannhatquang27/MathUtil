@@ -10,5 +10,6 @@ This repo contains the source code of a simple Java application used to demostra
 ## Connect me via
 1. [GitHub](https://github.com/doannhatquang27)
 2. [Facebook](https://www.facebook.com/i.love.fish.forever)
+3. [Email](mail: doannhatquang27@gmail.com)
 
-#### © 2020 by Nhat Quang
+#### © 2020 by Nhat Quang | FPT University - HCMC Campus
