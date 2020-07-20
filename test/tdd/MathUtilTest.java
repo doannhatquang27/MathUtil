@@ -35,7 +35,7 @@ public class MathUtilTest {
             //ngoại lệ không phải là 1 value để có thể so sánh được
             //nên ko xài hàm assertEquals() được
             computeFactorial(-5);
-                
+            computeFactorial(16); //giai thua tang rat nhanh, khong choi qua 15
         }        
         
         //code có thể tiềm ẩn lỗi login nhưng Clean&Build luôn ra file .jar
