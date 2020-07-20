@@ -34,7 +34,7 @@ public class MathUtilTest {
             //kì vọng ném ra ngoại lệ
             //ngoại lệ không phải là 1 value để có thể so sánh được
             //nên ko xài hàm assertEquals() được
-            //computeFactorial(-5);
+            computeFactorial(-5);
             computeFactorial(16); //giai thua tang rat nhanh, khong choi qua 15
         }        
         

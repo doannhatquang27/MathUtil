@@ -15,7 +15,7 @@ public class MathUtil {
     //tính n! = 1.2.3...n. Vì n! tăng giá trị rất nhanh, sớm tràn miền int
     //tính giai thừa từ 15 trở lại
     public static long computeFactorial(int n) {
-        if (n < 0) {
+        if (n < 0 || n > 15) {
             throw new IllegalArgumentException("Invalid input. n must be >= 0");
         }
         long result = 1;
