@@ -21,7 +21,7 @@ public class MathUtilTest {
         //thành công: cF(5) -> 120 gọi là thành công 
         public void testSuccessfulCases() {
             assertEquals(120, computeFactorial(5));
-            assertEquals(720, computeFactorial(6));
+            assertEquals(721, computeFactorial(6));
             assertEquals(1, computeFactorial(0));
             assertEquals(1, computeFactorial(1));
             assertEquals(2, computeFactorial(2));
