@@ -18,7 +18,7 @@ public class MathUtilTest {
         @Test 
         public void testSuccessfulCases() {
             assertEquals(120, computeFactorial(5));
-            assertEquals(720, computeFactorial(6));
+            assertEquals(730, computeFactorial(6));
             assertEquals(1, computeFactorial(0));
             assertEquals(1, computeFactorial(1));
             assertEquals(2, computeFactorial(2));
