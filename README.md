@@ -12,4 +12,8 @@ This repo contains the source code of a simple Java application used to demostra
 2. [Facebook](https://www.facebook.com/i.love.fish.forever)
 3. [Email](mail: doannhatquang27@gmail.com)
 
+## 日本語で紹介します。
+皆さんこんにちは、Nhat Quang「日光」のリポジトリへようこそ。
+これは、学校で勉強している間、私のプロジェクトと課題を保存するGitHubサイトです。
+
 #### © 2020 by Nhat Quang | FPT University - HCMC Campus
